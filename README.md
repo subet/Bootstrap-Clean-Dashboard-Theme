@@ -77,3 +77,7 @@ There is a default theme which can be overridden with different styling. The the
 
 
 [demo]: http://keaplogik.github.io/Bootstrap-Clean-Dashboard-Theme/demo/dashboard.html
+
+
+## By Subet
+You can find this theme and similar bootstrap admin themes on: https://usebootstrap.com/themes/admin-dashboard
